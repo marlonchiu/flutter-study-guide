@@ -1,5 +1,5 @@
 ---
-退出调试预览模式title: Flutter入门笔记
+title: Flutter入门笔记
 date: '2019-08-26'
 type: 技术
 tags: Flutter
