@@ -53,7 +53,8 @@ class _ExpansionPanelListDemoState extends State<ExpansionPanelListDemo> {
                   );
                 },
                 body: ListTile(title: Text('expansion no.$index')),
-                isExpanded: expandStateList[index].isOpen
+                isExpanded: expandStateList[index].isOpen,
+                canTapOnHeader: true  // 点击伸缩
               );
           }).toList(),
         ),
