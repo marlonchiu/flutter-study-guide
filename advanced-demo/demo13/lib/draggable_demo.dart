@@ -19,7 +19,7 @@ class _DraggableDemoState extends State<DraggableDemo> {
             widgetColor: Colors.tealAccent,
           ),
           DraggableWidget(
-            offset: Offset(220.0, 80.0),
+            offset: Offset(250.0, 80.0),
             widgetColor: Colors.redAccent,
           ),
           Center(
