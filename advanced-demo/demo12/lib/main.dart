@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'tool_tips_demo.dart';
+import 'tool_tip_demo.dart';
 
 void main() => runApp(MyApp());
 
