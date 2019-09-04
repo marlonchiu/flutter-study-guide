@@ -16,7 +16,7 @@ note: Flutter是谷歌的移动UI框架，可以快速在iOS和Android上构建�
 
 * 学习指导：
   * [Flutter官方网站](https://flutter.dev/)
-* [Flutter免费视频第一季](https://jspang.com/posts/2019/01/20/flutter-base.html)
+  * [Flutter免费视频第一季](https://jspang.com/posts/2019/01/20/flutter-base.html)
   * [Flutter免费视频第二季](https://jspang.com/posts/2019/01/21/flutter-base2.html)
   * [Flutter免费视频第三季](https://jspang.com/posts/2019/01/28/flutter-base3.html)
   * [Flutter免费视频第四季](https://jspang.com/posts/2019/02/01/flutter-base4.html)
